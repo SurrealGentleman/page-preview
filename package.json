@@ -3,6 +3,14 @@
   "name": "@surrealgentleman/page-preview",
   "version": "1.0.0",
   "description": "A native Web Component for previewing HTML pages",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SurrealGentleman/page-preview.git"
+  },
+  "homepage": "https://github.com/SurrealGentleman/page-preview#readme",
+  "bugs": {
+    "url": "https://github.com/SurrealGentleman/page-preview/issues"
+  },
   "type": "module",
   "exports": "./src/page-preview.js",
   "files": [
